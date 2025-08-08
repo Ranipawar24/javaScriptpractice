@@ -5,4 +5,4 @@ accountCity = "Nagpur";
 
 accountId = 2;
 
-console.log(accountId);
+// console.log(accountId); // not allowed bcz of the constant value
