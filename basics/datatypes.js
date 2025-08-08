@@ -17,3 +17,7 @@ console.log(name);
 // NULL = STANDALONE VALUE
 // UNDEFINED =
 // SYMBOL = UNIQUE
+
+// OBJECT
+
+console.log(typeof undefined);
