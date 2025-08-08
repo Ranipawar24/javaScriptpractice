@@ -6,7 +6,8 @@ accountCity = "Nagpur";
 // accountId = 2;  // not allowed bcz of the constant value
 
 /*
-
+prefer not to use var 
+because of issue in block scope and functional scope
 */
 
 accountEmail = "p@gmail.com";
