@@ -2,6 +2,6 @@
 
 // alert (3+3) // we are using node js, not a browser
 
-let name = "Rani"; /
-let age = 28;
-let isLoggedIn = true;
+let name = "Rani"; // string
+let age = 28; // number
+let isLoggedIn = true; // boolean
