@@ -7,3 +7,13 @@ let age = 28; // number
 let isLoggedIn = true; // boolean
 
 console.log(name);
+
+// PRIMITIVE
+
+// NUMBER = 2 TO POWER 53
+// BIGINIT
+// STRING = ""
+// BOOLEAN = TRUE/FALSE
+// NULL = STANDALONE VALUE
+// UNDEFINED =
+// SYMBOL = UNIQUE
