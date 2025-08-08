@@ -5,6 +5,10 @@ accountCity = "Nagpur";
 
 // accountId = 2;  // not allowed bcz of the constant value
 
+/*
+
+*/
+
 accountEmail = "p@gmail.com";
 accountPassword = 121212;
 accountCity = "Pune";
