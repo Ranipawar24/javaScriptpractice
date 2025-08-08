@@ -5,3 +5,5 @@
 let name = "Rani"; // string
 let age = 28; // number
 let isLoggedIn = true; // boolean
+
+console.log(name);
