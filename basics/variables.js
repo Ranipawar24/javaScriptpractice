@@ -13,7 +13,14 @@ because of issue in block scope and functional scope
 accountEmail = "p@gmail.com";
 accountPassword = 121212;
 accountCity = "Pune";
+let accountState;
 
 console.log(accountId); // not allowed bcz of the constant value
 
-console.table([accountId, accountEmail, accountPassword, accountCity]);
+console.table([
+  accountId,
+  accountEmail,
+  accountPassword,
+  accountCity,
+  accountState,
+]);
