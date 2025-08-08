@@ -18,6 +18,6 @@ console.log(name);
 // UNDEFINED =
 // SYMBOL = UNIQUE
 
-// OBJECT == null
+// OBJECT == null //
 
 console.log(typeof undefined);
