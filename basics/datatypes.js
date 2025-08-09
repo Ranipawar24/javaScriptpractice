@@ -20,4 +20,4 @@ console.log(name);
 
 // OBJECT == null //
 
-console.log(typeof null);
+console.log(typeof null); // object
