@@ -20,3 +20,4 @@ console.log(booleanIsLoggedIn);
 // 1 = true
 // "" = false
 // "Rani" = true
+//
