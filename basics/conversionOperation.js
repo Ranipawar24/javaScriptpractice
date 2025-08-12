@@ -28,3 +28,5 @@ let stringNum = String(someNumber);
 // console.log(typeof stringNum);
 
 // ****************** OPERATIONS *********************
+
+let value = 3;
