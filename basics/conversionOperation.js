@@ -38,3 +38,7 @@ let str1 = "Rani";
 let str2 = " Pawar";
 let str3 = str1 + str2;
 console.log(str3);
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
