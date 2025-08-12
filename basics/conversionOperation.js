@@ -15,8 +15,13 @@ console.log(valueInNumber);
 let isLoggedIn = "";
 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 = true
 // "" = false
 // "Rani" = true
+
+let someNumber = 33;
+
+let stringNum = String(someNumber);
+console.log(stringNum);
