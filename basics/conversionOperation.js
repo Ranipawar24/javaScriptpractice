@@ -35,5 +35,6 @@ let negValue = -value;
 console.log(negValue);
 
 let str1 = "Rani";
-let str2 = " Pawar"
-let str3 =
+let str2 = " Pawar";
+let str3 = str1 + str2;
+console.log(str3);
