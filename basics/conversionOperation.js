@@ -32,7 +32,7 @@ let stringNum = String(someNumber);
 let value = 3;
 
 let negValue = -value;
-console.log(negValue);
+//console.log(negValue);
 
 let str1 = "Rani";
 let str2 = " Pawar";
