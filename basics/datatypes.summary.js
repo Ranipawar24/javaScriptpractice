@@ -15,3 +15,7 @@ const siLoggedIn = false;
 const outsideTem = null;
 
 let userEmail; // like its define as a undefined value
+
+const id = Symbol("123");
+const anotherId = Symbol("123");
+console.log(id === anotherId);
