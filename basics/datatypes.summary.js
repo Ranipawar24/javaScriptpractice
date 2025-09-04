@@ -20,13 +20,15 @@ console.log(id === anotherId);
 
 // Array , Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"]; //
+const heros = ["shaktiman", "naagraj", "doga"]; // example of Arrays
 
 let myObj = {
+  // example of Objects
   name: "Rani",
   age: 26,
 };
 
 const myFunction = function () {
+  // example of Functions
   console.log("Hello world");
 };
