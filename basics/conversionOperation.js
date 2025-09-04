@@ -42,4 +42,4 @@ let str3 = str1 + str2;
 // ***************** prefix and postfix *********************
 let gameCounter = 100;
 gameCounter++;
-//console.log(gameCounter);
+console.log(gameCounter);
