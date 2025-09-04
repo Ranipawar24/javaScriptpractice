@@ -1,3 +1,3 @@
 // PRIMITIVE
 
-// 7 types :
+// 7 types : string , Number, Boolean, Undefined, Null, Symbol,
