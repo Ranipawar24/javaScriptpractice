@@ -2,7 +2,8 @@
 
 // 7 types : string , Number, Boolean, Undefined, Null, Symbol, BigInt
 
-// SO JAVASCRIPT IS A DYNAMICALY LANGAUGE IT MEANS the type of a variable is determined at runtime, and you can reassign it to a different type later:
+// SO JAVASCRIPT IS A DYNAMICALY LANGAUGE IT MEANS the type of a variable is determined at runtime, and you can reassign it to a
+//  different type later:
 
 const score = 100;
 const scoreValue = 200.1;
