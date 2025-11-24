@@ -15,7 +15,7 @@ let userEmail; // like its define as a undefined value
 
 const id = Symbol("123");
 const anotherId = Symbol("123");
-console.log(id === anotherId);
+// console.log(id === anotherId);
 
 // REFERENCE TYPE / NON-PRIMITIVE
 
@@ -34,4 +34,8 @@ const myFunction = function () {
   console.log("Hello world");
 };
 
-console.log(typeof myFunction);
+// console.log(typeof myFunction);
+
+// *********************************************** MEMORIES TYPES
+
+// STACT (PRIMITIVE) , HEAP (NON-PRIMITIVE)
