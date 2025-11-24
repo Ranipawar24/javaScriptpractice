@@ -39,3 +39,7 @@ const myFunction = function () {
 // *********************************************** MEMORIES TYPES
 
 // STACT (PRIMITIVE) , HEAP (NON-PRIMITIVE)
+
+let myYoutubeName = "ranidotcom";
+let anotherName = myYoutubeName;
+console.log(anotherName);
