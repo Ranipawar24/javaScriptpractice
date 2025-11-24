@@ -33,3 +33,5 @@ const myFunction = function () {
   // example of Functions
   console.log("Hello world");
 };
+
+console.log(typeof myFunction);
