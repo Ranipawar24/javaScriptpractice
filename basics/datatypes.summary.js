@@ -36,7 +36,7 @@ const myFunction = function () {
 
 // console.log(typeof myFunction);
 
-// ***********************************************8 MEMORIES TYPES
+// *********************************************** MEMORIES TYPES
 
 // STACT (PRIMITIVE) , HEAP (NON-PRIMITIVE)
 
