@@ -43,3 +43,4 @@ const myFunction = function () {
 let myYoutubeName = "ranidotcom";
 let anotherName = myYoutubeName;
 console.log(anotherName);
+//
